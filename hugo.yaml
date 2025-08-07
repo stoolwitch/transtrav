@@ -1,0 +1,5 @@
+baseURL: https://transtrav.ch/
+languageCode: fr-ch
+title: transtrav.ch
+
+theme: ["PaperMod"]
