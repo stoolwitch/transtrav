@@ -8,3 +8,7 @@ params:
   homeInfoParams:
     Title: Bienvenue sur transtrav.ch!
     Content: Le blog ciné ewewe
+
+caches:
+  images:
+    dir: :cacheDir/images
