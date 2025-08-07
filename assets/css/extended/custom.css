@@ -1,8 +1,0 @@
-@font-face {
-    font-family: "Baskervvol";
-    src: url('/fonts/BBBBaskervvol/web/BBBBaskervvol-Regular.woff2') format("woff2");
-}
-
-body {
-    font-family: "Baskervvol", sans-serif;
-}

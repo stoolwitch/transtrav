@@ -1,2 +1,0 @@
-# transtrav
-A personal blog.
