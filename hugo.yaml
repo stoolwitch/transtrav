@@ -3,3 +3,5 @@ languageCode: fr-ch
 title: transtrav.ch
 
 theme: ["PaperMod"]
+
+ignoreErrors: ["error-remote-getjson"]
