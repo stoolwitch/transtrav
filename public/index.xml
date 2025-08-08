@@ -5,16 +5,23 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on transtrav.ch</description>
     <generator>Hugo -- 0.148.2</generator>
-    <language>fr-ch</language>
-    <lastBuildDate>Thu, 07 Aug 2025 17:28:13 +0200</lastBuildDate>
+    <language>fr</language>
+    <lastBuildDate>Fri, 08 Aug 2025 17:26:57 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>à propos</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>http://localhost:1313/posts/about/</link>
       <pubDate>Thu, 07 Aug 2025 17:28:13 +0200</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;p&gt;L’origine de transtrav.ch, c’est des questionnements. Est-ce que nous avons le droit d’écrire des critiques de films? Est-ce que nous serons pris·es au sérieux? Est-ce qu’il faut faire des études de journalisme et d’histoire du cinéma? Est-ce qu’il faut absolument avoir vu &lt;em&gt;Le Parrain&lt;/em&gt;?&lt;/p&gt;
-&lt;p&gt;Ce à quoi nous nous répondrions, avec du recul: bien évidemment que vous avez le droit! Ne vous laissez pas écraser par l’hégémonie du cinéma par et pour les hommes cis hétéros! Le monde du cinéma gagne à avoir deux personnes queer — deux personnes trans — qui partagent leur vision hors du courant dominant. Le cinéma est populaire et le sera toujours. Verrouiller ses portes derrière un statut académique ne fait rien d’autre que le desservir. La même chose peut être dite sur la légitimité d’écrire.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>&lt;p&gt;L’origine de transtrav.ch, c’est des questionnements. Est-ce que nous avons le droit d’écrire des critiques de films? Est-ce que nous serons pris·es au sérieux? Est-ce qu’il faut faire des études? Est-ce qu’il faut absolument avoir vu &lt;em&gt;Le Parrain&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;Et notre conclusion, c’est qu’on s’en fout. On en a marre de l’hégémonie des HSBC sur le monde du cinéma et on va dire ce qu’on pense, qu’on soit écouté·e ou pas. Il a suffit d’un nom qui fait le lien entre cinéma et queerness pour nous lancer. Le monde gagne à entendre des voix trans qui se manifestent.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Firstarticle</title>
+      <link>http://localhost:1313/posts/firstarticle/</link>
+      <pubDate>Fri, 08 Aug 2025 17:26:57 +0200</pubDate>
+      <guid>http://localhost:1313/posts/firstarticle/</guid>
+      <description>&lt;p&gt;hihi&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

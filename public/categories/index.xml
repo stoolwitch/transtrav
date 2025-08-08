@@ -5,7 +5,7 @@
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on transtrav.ch</description>
     <generator>Hugo -- 0.148.2</generator>
-    <language>fr-ch</language>
+    <language>fr</language>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
