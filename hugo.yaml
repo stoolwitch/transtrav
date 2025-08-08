@@ -7,7 +7,7 @@ theme: ["PaperMod"]
 params:
   homeInfoParams:
     Title: Bienvenue sur transtrav.ch!
-    Content: Le blog ciné ewewe
+    Content: Le blog ciné slay et pas sérieux
 
 caches:
   images:
