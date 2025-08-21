@@ -8,6 +8,8 @@ params:
   homeInfoParams:
     Title: Bienvenue sur transtrav.ch!
     Content: Un blog de cinéma super slay, sans ligne directrice précise, sans restrictions, juste un max de kiff — ou de rage — à parler de cinéma.
+  defaultTheme: light
+  disableThemeToggle: true
 
 caches:
   images:
