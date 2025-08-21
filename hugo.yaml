@@ -12,3 +12,10 @@ params:
 caches:
   images:
     dir: :cacheDir/images
+
+menu:
+      main:
+      - identifier: "contact"
+        name: "contact"
+        url: "mailto:coucou@transtrav.ch"
+        weight: 10
