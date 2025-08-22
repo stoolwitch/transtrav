@@ -1,12 +1,12 @@
 @font-face {
-  font-family: "DroidSerif";
+  font-family: "Baskervvol";
   src: url("/fonts/BBBBaskervvol-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "DroidSerif";
+  font-family: "Baskervvol";
   src: url("/fonts/BBBBaskervvol-Italic.woff2") format("woff2");
   font-weight: 400;
   font-style: italic;
@@ -27,14 +27,14 @@
 }
 
 @font-face {
-  font-family: "DroidSerif";
+  font-family: "Baskervvol";
   src: url("/fonts/BBBBaskervvol-Book.woff2") format("woff2");
   font-weight: 350;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "DroidSerif";
+  font-family: "Baskervvol";
   src: url("/fonts/BBBBaskervvol-BookItalic.woff2") format("woff2");
   font-weight: 350;
   font-style: italic;
@@ -59,9 +59,25 @@ body {
     font-feature-settings: "liga" 1;
 }
 
-/* div.logo {
-    font-family: sans-serif;
-} */
+@font-face {
+  font-family: "Basteleur";
+  src: url("/fonts/Basteleur-Moonlight.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Basteleur";
+  src: url("/fonts/Basteleur-Bold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+div.logo a {
+    font-family: 'Basteleur', sans-serif;
+    font-weight: 400;
+}
 
 :root {
     --primary: #b00b1e;
